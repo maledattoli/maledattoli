@@ -1,6 +1,6 @@
 <h1 align="center">Holiiiii <3 soy Male</h1>
 
-<p align="center">Estudiando Licenciatura  en sistemas (UNLP)</p>
+<p align="center">Estoy estudiando Licenciatura  en sistemas (UNLP)</p>
 
 <br clear="both">
 
@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maledattoli&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
+<p align="center">Aprendiendo cositas siempre</p>
 ###
 
 <br clear="both">
