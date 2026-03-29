@@ -9,9 +9,7 @@
   <img height="170" src="https://media1.tenor.com/m/RS644aE7pucAAAAd/marceline.gif"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maledattoli&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 
 
