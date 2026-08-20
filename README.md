@@ -49,6 +49,13 @@
     </a>
 </div>
 <div align="center">
+  <h3 align="center"><b>Tercero</b></h3>
+  <a href="https://github.com/maledattoli/CPLP">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maledattoli&repo=CPLP&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
+    </a>
+
+</div>
+<div align="center">
   <h3 align="center"><b>Proyectos</b></h3>
   <a href="https://github.com/JuanEsc17/DataHogar.AR">
         <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JuanEsc17&repo=DataHogar.AR&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
